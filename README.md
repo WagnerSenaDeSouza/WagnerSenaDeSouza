@@ -1,4 +1,4 @@
-- 👋 Oi, eu sou @WagnerSenaDeSouza
+- 👋 Oi, eu sou @WagnerSenaDeSouza 🇧🇷 
 - 👀 Estou interesado em aprender html, css, js por enquanto 
 - 🌱 Estou estudando css no momento
 - 💞️ Procuro colaborar com a comunidade e espero aprender suficiente para estar empregado 
